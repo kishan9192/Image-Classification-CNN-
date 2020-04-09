@@ -41,3 +41,4 @@ model.fit_generator(
         validation_steps=800)
 ```
 # Testing Image
+![cat_or_dog_2.jpg](https://github.com/kishan9192/Image-Classification-CNN-/blob/master/cat_or_dog_2.jpg)
